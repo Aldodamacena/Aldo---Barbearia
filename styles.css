@@ -10,3 +10,15 @@ ul{
 li{
   color:blueviolet;
 }
+
+.container-left{
+  display: inline-block;
+
+}
+.container-right{
+  display: inline-block;
+  background-color: rgba(93, 93, 125, 0.16);
+  right: 100vh;
+  width: 40%;
+  position: relative;
+  top: 25%;
