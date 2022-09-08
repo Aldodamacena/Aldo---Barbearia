@@ -10,5 +10,6 @@ ul{
 li{
   color:blueviolet;
 }
+.container img { max-width: 200px; }
 
 
